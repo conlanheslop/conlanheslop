@@ -13,7 +13,7 @@
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=conlanheslop&show_icons=true&hide_title=true&hide=contribs&count_private=true&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=conlanheslop&theme=gruvbox)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=conlanheslop&theme=gruvbox)
 
 ---
 
