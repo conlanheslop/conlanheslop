@@ -1,15 +1,12 @@
-# 👋 Hi there, I'm Conlan Heslop!
-
-Welcome to my GitHub profile! I'm a [your profession or current status, e.g., "Computer Science student", "Full Stack Developer", etc.] passionate about technology, clean code, and building useful applications.
-
+# 👋 Hi, I'm Conlan Heslop!
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript | Python | Java | C++
-- **Web**: HTML | CSS | React | Node.js | Express
-- **Databases**: MySQL | MongoDB
-- **Tools**: Git | GitHub | VS Code | Postman
-- **Other**: Docker | REST APIs | Linux | Agile
+- **Languages**:  Python | Java | C++
+- **Web**: HTML | CSS
+- **Databases**: MySQL | SQLite
+- **Tools**: Git | GitHub | VS Code | 
+- **Other**: REST APIs | Linux
 
 ---
 
@@ -20,9 +17,9 @@ Welcome to my GitHub profile! I'm a [your profession or current status, e.g., "C
 ---
 
 ## 📫 Let's Connect
-- 🌐 [Your Website or Portfolio](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- ✉️ Email: your.email@example.com
+- 🌐 [Your Website or Portfolio](https://conlanheslop.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/conlan-heslop-56362a271/)
+- ✉️ Email: conlanh2004@gmail.com
 
 ---
 
