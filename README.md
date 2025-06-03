@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Conlan Heslop!
 
 Welcome to my GitHub profile! I'm a [your profession or current status, e.g., "Computer Science student", "Full Stack Developer", etc.] passionate about technology, clean code, and building useful applications.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a [your profession or current status, e.g., "C
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=contribs&count_private=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=conlanheslop&show_icons=true&hide_title=true&hide=contribs&count_private=true&theme=default)
 
 ---
 
